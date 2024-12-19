@@ -1,0 +1,7 @@
+1700529062932	Delete elements
+1700529081068	Rename resource 'application.properties'
+1700531755056	Rename type 'Client'
+1700531779945	Rename type 'ClientController'
+1700531796975	Rename type 'ClientRepository'
+1700531809076	Rename type 'ClientService'
+1700531867290	Infer generic type arguments

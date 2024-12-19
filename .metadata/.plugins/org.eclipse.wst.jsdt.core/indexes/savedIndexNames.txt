@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\alexn\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\curso-micro-services\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+208089862.index
+157543933.index
+1554866783.index
+4104540719.index
+682209896.index
